@@ -1,4 +1,4 @@
-// To print the Fibonacci number up to given limti: 
+// To print the Fibonacci number up to given limit: 
 
 #include <stdio.h>
 #include <stdlib.h>
