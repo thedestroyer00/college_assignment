@@ -1,5 +1,5 @@
 // To check if the given number is special or not
-// (A number is special if it is equal to it's factor excluding itself):
+// (A number is special if it is equal to it's factor excluding itself[eg factor of 6 = 1,2,3,6 and its sum = 1+2+3 = 6]):
 
 # include <stdio.h>
 
