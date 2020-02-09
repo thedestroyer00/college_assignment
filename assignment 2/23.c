@@ -14,7 +14,7 @@ int main()
 	
 	for(i = 0; i<max; i++)
 	{
-		if(salary[i] > 10000 && salary[i] < 20000)
+		if(salary[i] >= 10000 && salary[i] <= 20000)
 		{
 			employees++;
 		}
