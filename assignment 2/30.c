@@ -12,7 +12,7 @@ int main()
 	printf("Befor swap a = %d  b = %d \n", a,b); 
 	
 	a = a+b;
-	b = a - b;
+	b = a-b;
 	a = a-b;
 	
 	printf("After swap a = %d  b = %d",a,b);  
