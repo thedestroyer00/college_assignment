@@ -8,17 +8,11 @@ int main()
 	
 	for(i = 1; i<=100; i++)
 	{
-		if(i%2 == 0)
-		{
-			even += i;
-		}
-		else
-		{
-			odd += i;
-		}
+		(i % 2 == 0) ? (even += i) : (odd += i); 
 	}
 	printf(" sum odd = %d \n sum even = %d", odd, even);
 	
 	return 0;
 }
+
 
