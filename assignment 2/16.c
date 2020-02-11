@@ -29,7 +29,7 @@ int main()
 	g = arr[max-1];
 	s = arr[0];
 	i = 1;
-	while(w1 == 1)
+	while(1)
 	{
 		if(s == arr[i])
 		{i++;}
