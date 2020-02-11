@@ -6,7 +6,7 @@
 
 int main()
 {
-	int arr[max], g,s,i,j, w1 = 1, w2 =1;
+	int arr[max], g,s,i,j;
 	
 	printf("Enter the numbers : ");
 	for(i = 0; i<max; i++)
